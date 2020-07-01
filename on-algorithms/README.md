@@ -1,8 +1,8 @@
 ---
 
-###### Algorithms
 
-Link one Example
+[Example Title of a Link](https://www.google.com)
+
 <details><summary><b>Summary</b></summary>
 <p>
 
