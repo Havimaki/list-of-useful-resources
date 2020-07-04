@@ -2,12 +2,11 @@
 ###### Li Hongyi // Aug-08-2019
 ---
 
-Key Takeaways
+Elevator Pitch
 ------ 
+This article summarizes how software fails, and how to avoid that by reusing existing software, building for complexity and hiring great engineers who will make the right decisions. 
 
-TODO: summarize the following:
-> Good software development starts with building a clear understanding of the problem you want to solve. This lets you test many possible solutions and converge on a good approach. Development is accelerated by reusing the right open source code and cloud services, granting immediate access to established software systems and sophisticated new technology. The development cycle alternates between exploration and consolidation, quickly and messily progressing on new ideas, then focusing and simplifying to keep the complexity manageable. As the project moves forward, it gets tested with successively larger groups of people to eliminate increasingly uncommon problems. Launching is when the real work ramps up for a good development team: layers of automated systems should be built to handle issues quickly and prevent harm to actual users. Ultimately, while there are infinite intricacies to software development, understanding this process provides a basis to tackle the complexities of how to build good software.
-
+------ 
 
 Notable Quotes
 ------ 
@@ -43,3 +42,9 @@ Notable Quotes
 
 > Building software is not about avoiding failure; it is about strategically failing as fast as possible to get the information you need to build something good.
 
+--- 
+
+Conclusion
+------
+
+> Good software development starts with building a clear understanding of the problem you want to solve. This lets you test many possible solutions and converge on a good approach. Development is accelerated by reusing the right open source code and cloud services, granting immediate access to established software systems and sophisticated new technology. The development cycle alternates between exploration and consolidation, quickly and messily progressing on new ideas, then focusing and simplifying to keep the complexity manageable. As the project moves forward, it gets tested with successively larger groups of people to eliminate increasingly uncommon problems. Launching is when the real work ramps up for a good development team: layers of automated systems should be built to handle issues quickly and prevent harm to actual users. Ultimately, while there are infinite intricacies to software development, understanding this process provides a basis to tackle the complexities of how to build good software.
