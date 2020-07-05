@@ -4,7 +4,7 @@
 
 Elevator Pitch
 ------ 
-This article summarizes how software fails, and how to avoid that by reusing existing software, building for complexity and hiring great engineers who will make the right decisions. 
+This article summarizes how to avoid building bad software, by reusing existing software, building for complexity and hiring great engineers who will make the right decisions.
 
 ------ 
 
