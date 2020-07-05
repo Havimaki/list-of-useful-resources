@@ -21,7 +21,7 @@ article-title-example.md
 The content of this file should be formatted as specified in [TEMPLATE.md](link).
 
 ### 2. Updated README
-An addition should also be made to the categories README file. It should include the title of the article, and include the elevator pitch. The title of the article should link the article.
+An addition should also be made to the categories README file. It should include the title of the article, and include the elevator pitch. The title of the article should link the article itself.
 
 
 
