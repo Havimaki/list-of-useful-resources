@@ -6,7 +6,9 @@ After years of collecting articles, blog posts, videos and other general bits of
 Great question. Really, it's all subjective. However, I've found the most useful articles tend to touch the three following points:
 1. Has a clear purpose
 2. Explains the concepts in the simnplest form
-3. Is relevant
+3. Could be considered relevant for more than the last 3 years
+
+Those three points essentially cover (a) the concept, (b)  the way the concept is coveyed and (c) the general purpose of the concept.
 
 ## If you would like to submit a link...
 Yay! Please create a pull request, following the guidelines below:
