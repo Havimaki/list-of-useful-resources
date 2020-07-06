@@ -4,7 +4,9 @@
 
 Elevator Pitch
 ------ 
-This [type of resource] details [what is this resource explaining?].
+This [ `article` , `blog post` , `video lecture` ,  `guide` ]
+details [  `what is this resource explaining?`]
+by [ `how is it being explained?` ,  `how can one follow the resources advice?` ] .
 
 ------ 
 
