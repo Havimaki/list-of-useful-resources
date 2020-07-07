@@ -5,7 +5,7 @@
 Elevator Pitch
 ------ 
 This [ `article` , `blog post` , `video lecture` ,  `guide` ]
-details [  `what is this resource explaining?`]
+details/summarizes/lists/outlines [  `what is this resource explaining?`]
 by [ `how is it being explained?` ,  `how can one follow the resources advice?` ] .
 
 ------ 

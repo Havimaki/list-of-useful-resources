@@ -6,3 +6,6 @@
 
 ## [The Programmer's Oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 <p>This blog post lists 9 promises every engineer should make as a means of retaining the integrity of the computer programming industry.</p>
+
+## [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
+<p>This blog post outlines why software design is more important than software architecture, and how to achieve a simple design.</p>
