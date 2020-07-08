@@ -9,3 +9,7 @@
 
 ## [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
 <p>This blog post outlines why simple software design is more important than the software architecture it's built upon, and how to achieve an effective design.</p>
+
+## [Periodic Table of DevOps Tools](https://digital.ai/periodic-table-of-devops-tools)
+<p>This visual diagram displays a periodic table of the most uses tools, categorized into groups by purpose.</p>
+
