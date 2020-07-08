@@ -2,7 +2,7 @@
 <p>This article summarizes how to avoid building bad software, by reusing existing software, building for complexity and hiring great engineers who will make the right decisions.</p>
 
 ## [Periodic Table of DevOps Tools](https://digital.ai/periodic-table-of-devops-tools)
-<p>This visual diagram displays a periodic table of the most uses tools, categorized into groups by purpose.</p>
+<p>This visual diagram displays a periodic table of the most widely used tools for developers, categorized by purpose.</p>
 
 ## [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
 <p>This blog post outlines why simple software design is more important than the software architecture it's built upon, and how to achieve an effective design.</p>

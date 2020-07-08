@@ -4,7 +4,7 @@
 
 Elevator Pitch
 ------ 
-This visual diagram displays a periodic table of the most uses tools, categorized into groups by purpose.
+This visual diagram displays a periodic table of the most widely used tools for developers, categorized by purpose.
 
 ------ 
 
