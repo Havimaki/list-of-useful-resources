@@ -1,28 +1,31 @@
 #!/bin/bash
 
-directories=($( ls -d ../* | grep 'BEST\|EDUCATION\|GENERAL\|IOT\|LANGUAGES\|MISCELLANEOUS'))
-cleanedUpDirArray=()
+filteredDirectories=($( ls -d ../* | grep 'BEST\|EDUCATION\|GENERAL\|IOT\|LANGUAGES\|MISCELLANEOUS'))
+directories=()
 
 # remove path and special characters
-for name in ${directories[@]}
+for name in ${filteredDirectories[@]}
 do
+  # TODO: clean with one line
   cleanName=${name/'..'\//}
   cleanName=${cleanName/':'\//}
-  cleanedUpDirArray+=($cleanName)
+  directories+=($cleanName)
 done
 
 # show options for the paths
-echo which directory?
-select option in "${cleanedUpDirArray[@]}"; 
+echo which directory would you like to add to?
+select option in "${directories[@]}"; 
 do
-  if [[ ${cleanedUpDirArray[*]} =~ $option ]]; then
+  if [[ ${directories[*]} =~ $option ]]; then
     cd ../$option
     break
   fi
-  echo "================="
-  echo "incorrect option!"
-  echo "================="
-  exit 1 # TODO: add retry logic
+  # TODO: set error within its own if block
+  # TODO: add retry logic
+  echo "==========================="
+  echo "That option does not exist."
+  echo "==========================="
+  exit 1 
 done
 
 # create file
@@ -30,8 +33,8 @@ echo what is the filename?; read filename
 touch $filename.md
 
 # Add header
-echo title?; read title
-echo link?; read link
+echo what is the title of the link?; read title
+echo what is the url of the link?; read link # TODO: format url
 
 # construct file
 echo "## [$title]($link)" >> $filename.md
