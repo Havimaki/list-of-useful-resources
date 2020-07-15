@@ -32,5 +32,5 @@ Notable Quotes
 Conclusion
 ------
 
-> I worked at a struggling tech company for a couple years, and spent a lot of hours with my friends (also in similar situations and colleagues examining what we would’ve told our past selves.
+> I worked at a struggling tech company for a couple years, and spent a lot of hours with my friends and colleagues (also in similar situations) examining what we would’ve told our past selves.
 
