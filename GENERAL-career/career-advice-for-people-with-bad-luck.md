@@ -1,4 +1,4 @@
-## [Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad)
+## [Career Advice For People With Bad Luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad)
 ###### Anonymous // April-24-2020
 ---
 
