@@ -7,6 +7,9 @@
 ## [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
 <p>This blog post outlines why simple software design is more important than the software architecture it's built upon, and how to achieve an effective design.</p>
 
+## [Teach Yourself Programming In Ten Years](https://norvig.com/21-days.html)
+<p>This blog post details examples of how long it takes to master a skill, and ways to achieve mastery in programming.</p>
+
 ## [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 <p>This guide details a syllabus for those wanting to learn computer science by outlining which subjects to learn and why, alongside books or video lectures for each subject.</p>
 
