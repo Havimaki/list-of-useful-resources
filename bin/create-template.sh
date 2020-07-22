@@ -1,14 +1,13 @@
 #!/bin/bash
 
-filteredDirectories=($( ls -d ../* | grep 'BEST\|EDUCATION\|GENERAL\|IOT\|LANGUAGES\|MISCELLANEOUS'))
+# TODO: add Makefile 
+filteredDirectories=($( ls ../* | grep 'BEST\|EDUCATION\|GENERAL\|IOT\|LANGUAGES\|MISCELLANEOUS'))
 directories=()
 
 # remove path and special characters
 for name in ${filteredDirectories[@]}
 do
-  # TODO: clean with one line
-  cleanName=${name/'..'\//}
-  cleanName=${cleanName/':'\//}
+  cleanName=${name/':'\//}
   directories+=($cleanName)
 done
 
@@ -17,7 +16,7 @@ echo which directory would you like to add to?
 select option in "${directories[@]}"; 
 do
   if [[ ${directories[*]} =~ $option ]]; then
-    cd ../$option
+    cd $option
     break
   fi
   # TODO: set error within its own if block
@@ -32,12 +31,15 @@ done
 echo what is the filename?; read filename
 touch $filename.md
 
-# Add header
+# get header info
 echo what is the title of the link?; read title
-echo what is the url of the link?; read link # TODO: format url
+echo what is author\'s full name?; read author # format author 
+echo when was this written?; read date # format date
+echo what is the url of the link?; read link # TODO: validate url
 
 # construct file
 echo "## [$title]($link)" >> $filename.md
+echo "###### $author // $date" >> $filename.md
 echo "---" >> $filename.md
 echo "" >> $filename.md
 echo "Elevator Pitch" >> $filename.md
@@ -51,3 +53,5 @@ echo "Conclusion" >> $filename.md
 echo "------" >> $filename.md
 echo "> " >> $filename.md
 echo "" >> $filename.md
+
+echo "Good to go! Please navigste to the directory you selected for your newly created file."
