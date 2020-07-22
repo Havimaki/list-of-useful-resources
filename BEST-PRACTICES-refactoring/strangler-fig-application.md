@@ -10,7 +10,6 @@ This blog post describes a metaphor of refactoring legacy code with the Strangle
 
 Notable Quotes
 ------
-
 > While strangling and killing the tree that was their host. This metaphor struck me as a way of describing a way of doing a rewrite of an important system.
 
 > While new features (there are always new features) are liked, old stuff has to remain. Even old bugs often need to be added to the rewritten system.
