@@ -58,4 +58,6 @@ echo "Conclusion" >> $filename.md
 echo "------" >> $filename.md
 echo "> " >> $filename.md
 
-echo "Good to go! Please navigste to the directory you selected for your newly created file."
+echo "========================================================================================"
+echo "Good to go! Please navigate to the directory you selected for your newly created file."
+echo "========================================================================================"
