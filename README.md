@@ -11,17 +11,26 @@ Great question. Really, it's all subjective. However, I've found the most useful
 Those three points essentially cover (a) the concept, (b)  the way the concept is coveyed and (c) the general purpose of the concept.
 
 ## If you would like to submit a link...
-Yay! Please create a pull request, following the guidelines below:
+Great! Please do so by following these two steps:
+1. Run `make file_template` in your terminal in order to create a new file in the selected directory, with all the formatting in place.
+2. Populate your newly created file with a one-sentence Elevator Pitch, at least two Notable Quotes and a Conclusion.
+3. Run `make read_me_update`. This should update the directory's README file with title, link and Elevator Pitch.
+
+<!-- 
+Please create a pull request, following the guidelines below:
 ### 1. New markdown file 
 This file should be added within it's respective category (as listed in the directories). As this may be subjective/matter of opinion, please feel free to add to whichever category you feel best suits the content. 
 The markdown filename must be the title of the article and be formatted like so: 
 ```
 article-title-example.md
 ```
-The content of this file should be formatted as specified in [TEMPLATE.md](link).
+The content of this file should be formatted as specified in [TEMPLATE.md](link). 
 
 ### 2. Updated README
-An addition should also be made to the categories README file. It should include the title of the article, and include the elevator pitch. The title of the article should link the article itself.
+An addition should also be made to the categories README file. It should include the title of the article, and include the elevator pitch. The title of the article should link the article itself. 
+-->
+
+
 
 
 
