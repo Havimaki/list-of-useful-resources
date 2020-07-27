@@ -11,10 +11,10 @@ Great question. Really, it's all subjective. However, I've found the most useful
 Those three points essentially cover (a) the concept, (b)  the way the concept is coveyed and (c) the general purpose of the concept.
 
 ## If you would like to submit a link...
-Great! Please do so by following these two steps:
-1. Run `make file_template` in your terminal in order to create a new file in the selected directory, with all the formatting in place.
-2. Populate your newly created file with a one-sentence Elevator Pitch, at least two Notable Quotes and a Conclusion.
-3. Run `make read_me_update`. This should update the directory's README file with title, link and Elevator Pitch.
+Great! Please do so with following steps:
+1. Run `make resource` in your terminal in order to create a new file in the selected directory, with all the formatting in place.
+2. Populate your newly created file with a one-sentence Elevator Pitch, at least two Notable Quotes and a Conclusion. The conclusion can be a quote pulled from the link that you feel encapsulates the resource's main purpose.
+3. Run `make index`. This should update the directory's README file with title, link and Elevator Pitch.
 
 <!-- 
 Please create a pull request, following the guidelines below:

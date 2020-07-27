@@ -1,5 +1,5 @@
-file_template:
+resource:
 	bash ./bin/create-template.sh
 
-read_me_update:
+index:
 	bash ./bin/create-template.sh
