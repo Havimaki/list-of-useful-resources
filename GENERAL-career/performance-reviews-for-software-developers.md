@@ -23,6 +23,10 @@ Notable Quotes
 
 > The biased review. I'm not talking about the positively biased, but the negatively biased ones. There could be a recency bias, focusing on a near-term hick-up, but ignoring lots of great work from before. There could be gender bias, especially if you're female, with more focus on your behaviour than your accomplishments, or downplaying of these.
 
+> some change
+
+> another change
+
 > The "took me by a huge surprise" review.
 
 #### Three observations about perf reviews at tech companies
