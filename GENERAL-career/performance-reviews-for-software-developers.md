@@ -22,6 +22,7 @@ Notable Quotes
 > During the review, you get some negative feedback, which your manager tries to deliver in a civilized way. So they accompany it with examples. Except those examples are one-sided, miss key details and are mis-interpreted.
 
 > The biased review. I'm not talking about the positively biased, but the negatively biased ones. There could be a recency bias, focusing on a near-term hick-up, but ignoring lots of great work from before. There could be gender bias, especially if you're female, with more focus on your behaviour than your accomplishments, or downplaying of these.
+
 > The "took me by a huge surprise" review.
 
 #### Three observations about perf reviews at tech companies
