@@ -3,15 +3,15 @@
 . ./bin/list-directories.sh --source-only
 list_directories
 
-# create file
-filename=${title//' '/$'-'}
-touch $filename.md
-
 # get header info
 echo what is the title of the link?; read title
 echo what is author\'s full name?; read author # format author 
 echo when was this written?; read date # format date
 echo what is the url of the link?; read link # TODO: validate url
+
+# create file
+filename=${title//' '/$'-'}
+touch $filename.md
 
 # construct file
 echo "## [$title]($link)" >> $filename.md
