@@ -3,9 +3,8 @@
 . ./bin/list-directories.sh --source-only
 list_directories
 
-# TODO: GET FILENAME FROM ARTICLE TITLE
 # create file
-echo what is the filename?; read filename
+filename=${title//' '/$'-'}
 touch $filename.md
 
 # get header info
