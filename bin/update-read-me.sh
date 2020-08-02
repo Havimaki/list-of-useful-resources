@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 . ./bin/list-directories.sh --source-only
-# list_directories
 
 diff="$(git diff --name-only . ':(exclude)bin/update-read-me.sh')"
 directory="$(echo "${diff%%/*}")"
