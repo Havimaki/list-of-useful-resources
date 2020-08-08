@@ -16,3 +16,5 @@ This guide details a syllabus for those wanting to learn computer science by out
 ## [The Programmer's Oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 This blog post lists 9 promises every engineer should commit to throughout their career.
 
+## [The Hacker Way: How I taught My Nephew to Program](https://stopa.io/post/246)
+This blog post outlines four fundamental principles involved when teaching a child to program.
