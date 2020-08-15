@@ -2,7 +2,9 @@
 
 . ./bin/list-directories.sh --source-only
 
-diff="$(git diff --name-only . ':(exclude)bin/update-read-me.sh')"
+git add -A
+
+diff="$(git diff --cached --name-only . ':(exclude)bin/update-read-me.sh')"
 directory="$(echo "${diff%%/*}")"
 file="$(echo "$diff" | cut -d'/' -f 2)"
 
