@@ -5,7 +5,7 @@ After years of collecting articles, blog posts, videos and other general bits of
 ## What makes a link  "useful"?
 Great question. Really, it's all subjective. However, I've found the most useful articles tend to touch the three following points:
 1. Has a clear purpose
-2. Explains the concepts in the simnplest form
+2. Explains the concepts in the simplest form
 3. Can be considered relevant for more than the last 3 years
 
 Those three points essentially cover (a) the concept, (b)  the way the concept is coveyed and (c) the general purpose of the concept.
