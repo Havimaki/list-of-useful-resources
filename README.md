@@ -15,13 +15,3 @@ Great! Please do so with following steps:
 1. Run `make resource` in the terminal. This will create a new file in the selected directory, with all the formatting in place.
 2. Populate your newly created file with a one-sentence Elevator Pitch, at least two Notable Quotes and a Conclusion. The conclusion can be a quote pulled from the link that you feel encapsulates the resource's main purpose.
 3. Run `make index`. This will update the directory's README file with title, link and Elevator Pitch.
-
-### 2. Updated README
-An addition should also be made to the categories README file. It should include the title of the article, and include the elevator pitch. The title of the article should link the article itself. 
--->
-
-
-
-
-
-
