@@ -17,7 +17,7 @@ Great! Please do so with following steps:
 3. Run `make index`. This will update the directory's README file with title, link and Elevator Pitch.
 
 ## If you would like to share
-+ [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/Havimaki/useful-resources)
-+ [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FHavimaki%2Fuseful-resources&amp;src=sdkpreparse)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Havimaki/useful-resources&title=List%20Of%20Useful%20Resources&summary=&source=)
++ [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/Havimaki/useful-resources){:target="_blank"}
++ [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FHavimaki%2Fuseful-resources&amp;src=sdkpreparse){:target="_blank"}
++ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Havimaki/useful-resources&title=List%20Of%20Useful%20Resources&summary=&source=){:target="_blank"}
 
