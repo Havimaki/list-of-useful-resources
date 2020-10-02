@@ -18,6 +18,6 @@ Great! Please do so with following steps:
 
 ## If you would like to share
 + [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/Havimaki/useful-resources)
-+ [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2Havimaki%2useful-resources&p[images][0]=&p[title]=List%20Of%20Useful%20Resources&p[summary]=)
++ [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FHavimaki%2Fuseful-resources&amp;src=sdkpreparse)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Havimaki/useful-resources&title=List%20Of%20Useful%20Resources&summary=&source=)
 
