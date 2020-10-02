@@ -21,3 +21,11 @@ Great! Please do so with following steps:
 + [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FHavimaki%2Fuseful-resources&amp;src=sdkpreparse)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Havimaki/useful-resources&title=List%20Of%20Useful%20Resources&summary=&source=)
 
+
+
+## TODO
+* Remove special characters when creating link
+* Validate URL
+* Format Author name
+* Format Date
+* Add retry logic when selecting category
