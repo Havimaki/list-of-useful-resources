@@ -4,7 +4,7 @@
 
 Elevator Pitch
 ------
-An article that provides tips to a manager of a software development team on how to prepare and deliver performance reviews.
+This article provides tips to a manager of a software development team on how to prepare and deliver performance reviews.
 
 ------
 
