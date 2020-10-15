@@ -7,7 +7,7 @@
 list_directories
 
 # create file with link info
-get_header_info
+get_header_info 'true'
 create_file
 construct_file
 
