@@ -22,4 +22,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Add to backlog
-        run: echo pwd
+        run: echo $PWD
