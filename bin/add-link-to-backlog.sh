@@ -2,7 +2,7 @@
 
 . ./bin/create-file.sh --source-only
 
-cd .backlog
+cd _backlog
 
 # create file with link info
 get_header_info
