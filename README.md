@@ -16,6 +16,9 @@ Great! Please do so with following steps:
 2. Populate your newly created file with a one-sentence Elevator Pitch, at least two Notable Quotes and a Conclusion. The conclusion can be a quote pulled from the link that you feel encapsulates the resource's main purpose.
 3. Run `make index`. This will update the directory's README file with title, link and Elevator Pitch.
 
+Want to just share a link without adding the details?
+1. run `make link`. 
+
 ## If you would like to share
 + [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/Havimaki/useful-resources)
 + [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FHavimaki%2Fuseful-resources&amp;src=sdkpreparse)

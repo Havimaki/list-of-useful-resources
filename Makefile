@@ -1,5 +1,8 @@
+link:
+	bash ./bin/add-link-to-backlog.sh
+
 resource:
-	bash ./bin/create-template.sh
+	bash ./bin/add-link-to-directory.sh
 
 index:
 	bash ./bin/update-read-me.sh
