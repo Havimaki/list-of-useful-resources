@@ -7,3 +7,6 @@ This blog post details some perspectives and advice for unfortuante outcomes one
 ## [Performance Reviews for Software Developers – How I Do Them In a (Hopefully) Fair Way](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
 An article that provides tips to a manager of a software development team on how to prepare and deliver performance reviews.
 
+## [levels.fyi](https://www.levels.fyi/)
+This search engine platform collects and displays average salaries, searchable by company, location, years of experience and level of seniority.
+
