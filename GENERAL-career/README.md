@@ -10,3 +10,6 @@ An article that provides tips to a manager of a software development team on how
 ## [levels.fyi](https://www.levels.fyi/)
 This search engine platform collects and displays average salaries, searchable by company, location, years of experience and level of seniority.
 
+## [Ask HN: Best questions for an engineer to ask a CEO during a job interview?](https://news.ycombinator.com/item?id=19501289)
+This forum lists the opinions of anonymous writers on what to ask a CEO during a job interview.
+
