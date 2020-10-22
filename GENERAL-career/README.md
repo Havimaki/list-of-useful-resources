@@ -13,3 +13,6 @@ This search engine platform collects and displays average salaries, searchable b
 ## [Ask HN: Best questions for an engineer to ask a CEO during a job interview?](https://news.ycombinator.com/item?id=19501289)
 This forum lists the opinions of anonymous writers on what to ask a CEO during a job interview.
 
+## [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/)
+This blog post details the thought process behind choosing to be a technical leader over a manager.
+
