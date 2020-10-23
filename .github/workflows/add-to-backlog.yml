@@ -20,9 +20,9 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -m "Add changes" -a
+          git config --local user.email "dm.havimaki@gmail.com"
+          git config --local user.name "user.name=Havimaki"
+          git commit -m "Add changes"
           git add -A
 
       - name: Push changes
