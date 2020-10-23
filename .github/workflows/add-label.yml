@@ -12,20 +12,15 @@ jobs:
       - uses: actions/github-script@v3
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
-
-      - name: Add Label
-        run: |
-          github.issues.addLabels({
-            issue_number: context.issue.number,
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            labels: ['Triage']
-          })
-
-      - name: Get issue
-        run: |
-          github.issues.get({
-            owner: context.repo.owner,
-            repo:  context.repo.repo,
-            issue_number: context.issue.number,
-          });
+          script: |
+            github.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['Triage']
+            })
+            github.issues.get({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              issue_number: context.issue.number,
+            });
