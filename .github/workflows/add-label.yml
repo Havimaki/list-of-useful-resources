@@ -24,3 +24,6 @@ jobs:
               repo:  context.repo.repo,
               issue_number: context.issue.number,
             });
+          result-encoding: string
+      - name: Get result
+        run: echo "${{steps.set-result.outputs.result}}"
